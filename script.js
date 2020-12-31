@@ -25,6 +25,7 @@ if (time == wakeupTime) {
 	image = "https://i.pinimg.com/736x/69/fd/7a/69fd7a14b4e09f4a6d695680acad5ca3.jpg";
 	messageText = "Iz party time!";
 } else if (time < noon) {
+	image = "https://i1.wp.com/www.veryimportantpets.co.uk/wp-content/uploads/2019/01/British-Shorthair-Guide.jpg?w=750&ssl=1";
 	messageText = "Good Morningz!";
 } else if (time > evening) {
 	image = "https://www.orlandocatcafe.com/wp-content/uploads/2019/06/Sleeping-cat.jpg";
